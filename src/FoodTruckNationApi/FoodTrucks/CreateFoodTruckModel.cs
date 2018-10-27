@@ -8,6 +8,8 @@ namespace FoodTruckNationApi.FoodTrucks
 
     /// <summary>
     /// Model class representing the data needed to create a new FoodTruck
+    /// Extra comment line.
+    /// 
     /// </summary>
     public class CreateFoodTruckModel
     {
